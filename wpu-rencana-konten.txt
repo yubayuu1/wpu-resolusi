@@ -3,3 +3,4 @@
 - Membuat konten CSS Framework
 - Membuat konten Struktur Data Dasar
 - Membuat konten PHP Framework
+- Membuat konten Python Dasar
